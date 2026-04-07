@@ -1,5 +1,5 @@
 #import "@preview/cetz:0.4.2"
-#import "nodes.typ"
+#import "@local/nodes:0.1.0"
 
 #let defaults() = (
   noc_width: 8,
