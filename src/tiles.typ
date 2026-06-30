@@ -1,5 +1,5 @@
 #import "@preview/cetz:0.5.2"
-#import "@local/proxim:0.1.0"
+#import "@preview/proxim:0.1.0"
 
 #let defaults() = (
   noc_width: 8,
